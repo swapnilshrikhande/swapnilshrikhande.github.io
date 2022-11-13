@@ -16,7 +16,7 @@
         width: 180px;
         height: 180px;
         border-radius: 15px;
-        background-color: #ddd;
+        /*background-color: #ddd;*/
         margin : 30px 0px;
         img {
             width : 100%;
@@ -30,7 +30,7 @@
         left : 0;
         right : 0;
         bottom: 0;
-        background: rgba(0,0,0,0.03);
+        /*background: rgba(0,0,0,0.03);*/
     }
     .img-wrap:hover::before{
         background: rgba($theme-color, 0.1);
