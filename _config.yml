@@ -1,35 +1,46 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://swapnilshrikhande.in"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Personal Blog
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : assets/img/avatar.png
+    username : Swapnil Shrikhande
+    description : Developer
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2020-07-17
+        end : Current
+        experience : Madaket Health, Technical Lead    
+      - start : 2012-12-17
+        end : 2020-06-01
+        experience : Eternus Solutions, Senior Technical Lead    
+      - start : 2011-01-01
+        end : 2012-12-16
+        experience : Kan Biosys, Software Developer    
+      - start : 2009-05-01
+        end : 2011-01-01
+        experience : Consistent Software Technologies, Java Developer
     skills : 
       - skill : HTML5 & CSS
-        value : 85  # Percent value
+        value : 40  # Percent value
+      - skill : JavaScript
+        value : 30  # Percent value  
         
   # Icons
   icons :
     email:  # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: swapnilshrikhande
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter:
-    youtube:
+    twitter: swapnilshrkhnde
+    youtube: 
     facebook:
     instagram:
 
